@@ -84,7 +84,7 @@ The code implements the following logic:
         * High Income: 0 miles
     * **Revenue Neutrality:** A new rate ($r_{policy}$) is calculated to ensure the total revenue remains the same as the baseline.
 3.  **Evaluation:**
-    * **Affordability Index (AI):** $\frac{\text{Tax Paid}}{\text{Annual Income}}$. Lower is better/more affordable.
+    * **Affordability Index (AI):** $\frac{\text{Tax Paid}}{\text{Annual Income}}$. Lower is better.
     * **Gini Coefficient:** Measures income inequality before and after the tax policy.
 
 ---
